@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mapbox/elastisnap.png)](http://travis-ci.org/mapbox/elastisnap)
 Take rotating Amazon AWS EBS snapshots with this small node.js script.
 
 * Define what you want to snapshot based on instance-id + devices on that instance.
