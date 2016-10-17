@@ -17,4 +17,4 @@ description - used as the description for the snapshot along with the device nam
 
 This tool allows someone with root access to the instance being backed up up to also delete the snapshot backups of the same host. If someone were to maliciously comprimise a server using this tool, they could delete the backups of the server at the same time.
 
-If that's a concern for you, consider a different tool which does not allow an instance to delete it's own snapshots and instead deletes the snapshots through another means, such as an AWS Lambda Function which runs independently of any host. 
+If that's a concern for you, consider a different tool which does not allow an instance to delete its own snapshots and instead deletes the snapshots through another means, such as an AWS Lambda Function which runs independently of any host. 
