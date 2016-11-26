@@ -1,6 +1,7 @@
 {
     "awskey": "XXXXX",
     "awssecret": "XXXXX",
+    "region": "us-west-1",
     "jobs": [
         {
             "instanceid": "i-XXXXXXX",
